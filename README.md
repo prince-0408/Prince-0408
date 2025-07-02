@@ -10,7 +10,7 @@
 
 - 🚀 I’m passionate about building apps with Swift and SwiftUI  
 - 💡 Exploring Data Structures & Algorithms in Swift  
-- 🌱 Currently improving in **UIKit**, **SwiftUI**, and **design systems**  
+- 🌱 Currently improving in **UIKit**, **SwiftUI**, **AVFoundation**, and **ARKit**  
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/prince-yadav0108ios) and [Instagram](https://www.instagram.com/prince_ya_01/)  
 
 ---
@@ -18,11 +18,27 @@
 ### 🔧 Languages & Tools
 
 <p align="left">
+  <!-- Core -->
   <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" />
   <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=Xcode&logoColor=white" />
-  <img src="https://img.shields.io/badge/SwiftUI-0D1117?style=for-the-badge&logo=swift&logoColor=blue" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/SwiftUI-000000?style=for-the-badge&logo=swift&logoColor=blue" />
+  <img src="https://img.shields.io/badge/UIKit-000000?style=for-the-badge&logo=apple&logoColor=white" />
+  
+  <!-- iOS Frameworks -->
+  <img src="https://img.shields.io/badge/AVFoundation-000000?style=for-the-badge&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/ARKit-000000?style=for-the-badge&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/CoreData-000000?style=for-the-badge&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/Combine-000000?style=for-the-badge&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/WidgetKit-000000?style=for-the-badge&logo=apple&logoColor=white" />
+
+  <!-- Backend & APIs -->
+  <img src="https://img.shields.io/badge/Vapor-0D96F6?style=for-the-badge&logo=vapor&logoColor=white" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20API-6DB33F?style=for-the-badge&logo=json&logoColor=white" />
+
+  <!-- Web & Tools -->
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
