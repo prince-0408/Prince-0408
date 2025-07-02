@@ -42,11 +42,17 @@
 🎨 **[MusePaint](https://github.com/prince-0408/MusePaint)**  
 🔸 A minimal and creative drawing app built in Swift
 
-📰 **[NewsApp](https://github.com/prince-0408/NewsApp)**  
-🔸 A sleek app that shows real-time news using NewsAPI
+🧠 **[Cogito](https://github.com/prince-0408/Cogito)**  
+🔸 A focused mind-mapping, brainstorming, and idea-journaling app (SwiftUI)
 
-📦 **[Delivery](https://github.com/prince-0408/Delivery)**  
-🔸 Delivery tracking iOS app built with Swift and UIKit
+💡 **[Notch X](https://github.com/prince-0408/NotchX)**  
+🔸 A fun and useful app for customizing and playing with the iPhone notch area
+
+💑 **[Togethr](https://github.com/prince-0408/Togethr)**  
+🔸 A beautiful couples relationship tracking and memory app
+
+🍔 **[SnapBite](https://github.com/prince-0408/SnapBite)**  
+🔸 A clean iOS food journaling app with SnapKit-style layout system
 
 ---
 
@@ -78,12 +84,3 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
-
-
-<a href="https://www.linkedin.com/in/prince-yadav0108ios">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
----
-
-_Thanks for visiting! Keep building. ✨_
