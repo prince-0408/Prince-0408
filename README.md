@@ -25,7 +25,7 @@
 - 🌍 Active open-source contributor — **OneBusAway iOS** (Open Transit Software Foundation) and **Scribe-iOS**
 - ⌚ Shipped a production **watchOS app** (Flexi) built with SwiftUI and HealthKit
 - 🧠 Exploring **DSA in Swift**, MVVM architecture, and scalable app design
-- 🎯 GSoC 2026 applicant for the OneBusAway Apple Watch companion app project
+- 🎯 GSoC 2026 applicant for the OneBusAway Apple Watch companion app project And Scribe Conjugate App
 - 💼 Open to iOS Developer roles — full-time, internship, or contract
 - ⚡ Fun fact: I built a full voice-based booking assistant before most apps had one
 
