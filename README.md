@@ -4,13 +4,14 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F05138&center=true&vCenter=true&width=700&lines=iOS+%26+macOS+Developer+%7C+Swift+%26+SwiftUI;watchOS+%7C+HealthKit+%7C+AppKit+%7C+MVVM;GSoC+2026+%40+OneBusAway+%26+Scribe;Open+Source+Contributor+%7C+Wikimedia+Foundation;IndeHub+Hackathon+2025+Semi-Finalist" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F05138&center=true&vCenter=true&width=750&lines=iOS+%26+Android+Engineer+%7C+Swift+%26+Kotlin;CoreMIDI+%7C+CoreMotion+%7C+Live+Activities+%7C+Metal;Collaborator+%40+Scribe+(Wikimedia+Toolforge)+%7C+40%2B+PRs;Creator+of+Clavi%2C+Aera+%26+FlowState;IndeHub+Hackathon+2026+Finalist+%26+2025+Semi-Finalist" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/prince-0408"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/prince-yadav0108ios"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://leetcode.com/prince-0408"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
   <a href="https://www.instagram.com/prince_ya_01/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="mailto:prince.yadav5646@outlook.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=prince-0408&style=for-the-badge&color=F05138" alt="Profile Views" />
@@ -24,92 +25,82 @@
 
 | Repo | Description | Language | Last Push |
 |---|---|---|---|
-| [Scribe-Android](https://github.com/prince-0408/Scribe-Android) | Android keyboard app for language learners (Wikimedia) | Kotlin · Jetpack Compose | Aug 2026 |
-| [onebusaway-ios](https://github.com/prince-0408/onebusaway-ios) | watchOS companion app for transit (GSoC 2026) | Swift · SwiftUI | Aug 2026 |
-| [FlowState](https://github.com/prince-0408/FlowState) | macOS AI-powered focus & context tracking app | Swift · AppKit · SwiftData | Aug 2026 |
-| [Scribe-iOS](https://github.com/prince-0408/Scribe-iOS) | iOS keyboard app for language learners (Wikimedia) | Swift · UIKit · SwiftUI | Jul 2026 |
-| [Scribe-i18n](https://github.com/prince-0408/Scribe-i18n) | Localization pipeline (added Nepali language support) | Python | Jul 2026 |
-| [Cogito](https://github.com/prince-0408/Cogito) | AI-driven task manager with heatmap calendar | Swift · CoreData · MVVM | Jun 2026 |
-| [Flexi](https://github.com/prince-0408/Flexi) | watchOS posture assistant with HealthKit | Swift · HealthKit | May 2026 |
+| [Clavi](https://github.com/prince-0408/Clavi) | Acoustic piano analysis, 120Hz CoreMIDI pedal telemetry & Railsback tuner | Swift · SwiftUI · CoreMIDI | Oct 2026 |
+| [Aera](https://github.com/prince-0408/Aera) | Apple-native aviation companion with barometric cabin tracking & 3D globe | Swift 6 · ActivityKit · Metal | Oct 2026 |
+| [FlowState](https://github.com/prince-0408/FlowState) | macOS AI-powered focus & context recovery engine (IndeHub 2026 Finalist) | Swift · AppKit · SwiftData | Sep 2026 |
+| [Scribe-Android](https://github.com/prince-0408/Scribe-Android) | Android keyboard app & offline conjugate engine (Wikimedia Toolforge) | Kotlin · Jetpack Compose | Sep 2026 |
+| [Scribe-iOS](https://github.com/prince-0408/Scribe-iOS) | iOS keyboard app with sub-millisecond SQLite lexical autocompletion | Swift · UIKit · SwiftUI | Aug 2026 |
+| [Scribe-i18n](https://github.com/prince-0408/Scribe-i18n) | Localization pipeline (Nepali & Malayalam language support) | Python | Jul 2026 |
+| [Cogito](https://github.com/prince-0408/Cogito) | AI-driven task manager with smart heatmap calendar & themes | Swift · CoreData · MVVM | Jun 2026 |
+| [Flexi](https://github.com/prince-0408/Flexi) | watchOS posture assistant with real-time HealthKit tracking | Swift · HealthKit | May 2026 |
 
 ---
 
-## 👨‍💻 About Me
+## 👨💻 About Me
 
 ```swift
 let prince = Developer(
     role: "Software Engineer",
-    focus: ["SwiftUI", "AppKit", "Kotlin/Jetpack Compose", "Open Source", "System Design"],
+    focus: ["SwiftUI", "CoreMIDI", "CoreMotion", "Kotlin/Jetpack Compose", "Open Source", "System Design"],
     currentlyBuilding: [
-        "FlowState — macOS AI focus & context-tracking app (IndeHub 2026)",
-        "OneBusAway watchOS companion app (GSoC 2026)",
-        "Scribe Conjugate app for Android (GSoC 2026)"
+        "Clavi — Acoustic piano analysis & 120Hz MIDI diagnostics platform",
+        "Aera — Apple-native zero-mock aviation journey companion",
+        "FlowState — macOS AI focus & context-tracking engine (IndeHub 2026 Finalist)"
     ],
     openTo: ["Full-time", "Internship", "Contract"],
-    funFact: "Built a full voice-based booking assistant before most apps had one"
+    funFact: "Engineered sub-millisecond on-device SQLite autocompletion and a 120Hz continuous MIDI pedal telemetry engine"
 )
 ```
 
-- 💻 Software Engineer experienced in building robust, API-driven systems and high-performance cross-platform mobile/desktop applications
-- 📱 iOS & macOS Developer with internship experience at **BookTranspo** and **DigiLocker**
-- 🌍 Open Source Contributor at **Scribe (Wikimedia Foundation)** — active across iOS and Android
+- 💻 Software Engineer specializing in native iOS and Android development, real-time mobile systems, and scalable API architectures
+- 📱 Mobile systems developer with production internship experience at **BookTranspo** and **DigiLocker**
+- 🌍 Active Open Source Collaborator at **Scribe (Wikimedia Foundation Ecosystem)** with **40+ merged pull requests** across iOS, Android, and Go
+- 🎹 Architected **Clavi** — an acoustic piano diagnostic platform featuring continuous 3-pedal CoreMIDI telemetry at 120Hz, Railsback curve visualization, and VoiceOver audio rotors
+- ✈️ Architected **Aera** — an Apple-native aviation companion with zero-mock verified schedules, offline CoreMotion cabin-pressure tracking, and an orbital 3D Metal globe
 - ⌚ Shipped a production **watchOS app** (Flexi) with SwiftUI + HealthKit
-- 🚌 **GSoC 2026** — OneBusAway Apple Watch companion (24+ SwiftUI views, WatchConnectivity, OTP) & Scribe Conjugate Android app
-- 🏅 **IndeHub Hackathon 2025 Semi-Finalist** — now building FlowState for 2026
+- 🏅 **IndeHub Hackathon 2026 Finalist** & **2025 Semi-Finalist**
 - 🧠 Deep-diving into **DSA**, system design, and scalable end-to-end app architecture
 
 ---
 
 ## 🔭 Currently Working On
 
-- 🧠 **[FlowState](https://github.com/prince-0408/FlowState)** — macOS AI context-recovery & workspace focus engine with Apple FoundationModels, SwiftData, full-bleed CleanMyMac-X-inspired Studio UI (IndeHub Hackathon 2026)
-- 🚌 **OneBusAway watchOS** — GSoC 2026 watchOS companion with 24+ SwiftUI views, ViewModels, WatchConnectivity sync, and OTP transit integration
-- ⌨️ **Scribe Conjugate Android** — GSoC 2026 offline-aware Kotlin + Jetpack Compose conjugation app
-- 🔄 Modernizing legacy iOS UIKit and Android XML interfaces to SwiftUI / Jetpack Compose at Scribe
+- 🎹 **[Clavi](https://github.com/prince-0408/Clavi)** — Acoustic Piano Analysis & MIDI Diagnostics Platform with 120Hz continuous CoreMIDI 3-pedal telemetry, Railsback curve visualization, reverse chord detection, and VoiceOver audio rotors
+- ✈️ **[Aera](https://github.com/prince-0408/Aera)** — Apple-Native Aviation Journey Companion with zero-mock schedule tracking, offline barometric sensor processing via CoreMotion, contextual solar "Look Outside" engine, and orbital 3D Metal globe
+- 🧠 **[FlowState](https://github.com/prince-0408/FlowState)** — macOS AI context-recovery & workspace focus engine with Apple FoundationModels, SwiftData, full-bleed CleanMyMac-X-inspired Studio UI (IndeHub Hackathon 2026 Finalist)
+- ⌨️ **Scribe Ecosystem** — Modernizing Android IME architecture and Toolforge Go APIs across Wikimedia infrastructure
 
 ---
 
 ## 💼 Experience
 
 <details open>
-<summary><b>App Developer (Open Source Contributor) — Scribe (Wikimedia Foundation)</b> &nbsp;<code>Jan 2026 – Present</code></summary>
+<summary><b>App Developer (Open Source Collaborator) — Scribe (Wikimedia Foundation Ecosystem)</b> &nbsp;<code>Dec 2025 – Sep 2026</code></summary>
 <br>
 
-> Swift · Kotlin · SwiftUI · Jetpack Compose · SQLite · Scribe-i18n · NWPathMonitor
+> Swift · Kotlin · Go · SwiftUI · Jetpack Compose · SQLite · Gin · Testify · GitHub Actions
 
-- Engineered core cross-platform keyboard enhancements for iOS and Android, including a robust fallback autocompletion engine via local SQLite noun databases and customizable user settings
-- Architected the Android **Conjugate App**'s core functionality using Kotlin and Jetpack Compose, implementing offline-aware data downloading from Scribe-Server with dynamic network indicators and interactive search/selection UIs
-- Led modernization of legacy interfaces — converting iOS UIKit components to SwiftUI and standardizing Android XML/Compose layouts for responsive, dark-mode compatible experiences
-- Designed seamless onboarding and data-management flows with deep-link navigation from keyboard extensions directly into download managers with polished empty-state banners
-- Resolved critical edge-case crashes (locale-specific initialization errors) and maintained backward compatibility across iOS 15+
-- Integrated Scribe-i18n translation pipelines, completely localizing the app into **Nepali** and establishing localized error handling for server API failures
+- **Architectural Modernization (Android / Kotlin):** Spearheaded a 16-part architectural refactoring of the core Android IME engine, decomposing a 3,000+ line monolithic `GeneralKeyboardIME` into 10+ decoupled, single-responsibility handlers (`KeyboardLayoutHandler`, `ShiftHandler`, `ConjugationHandler`, `ClipboardHandler`) governed by a unified `KeyboardIMEContext` contract
+- **Local Autocompletion Engine (iOS / Swift & SQLite):** Engineered an on-device lexical autocompletion pipeline for Scribe-iOS querying local SQLite noun databases, delivering sub-millisecond prefix suggestions with zero network latency and 100% offline reliability
+- **Dynamic Data Contracts & Resilient Networking (Android / Kotlin & Jetpack Compose):** Architected the Conjugate App’s download engine and dynamic data contract parser (decoupling schema updates from APK builds), pairing it with real-time `NetworkMonitor` observers, offline caching, and graceful fallback states
+- **Advanced IME Feature Engineering (Android & iOS):** Built native typing enhancements across platforms, including a floating/resizable keyboard mode, auto-spacing after punctuation, double-tap space-to-period sentence punctuation, and TalkBack/VoiceOver accessibility labels across all interactive UI components
+- **Backend Infrastructure & Testing (Go / Gin & Testify):** Hardened the Scribe-Server API on Wikimedia Toolforge by developing comprehensive test suites for CORS middleware using `testify`, verifying OPTIONS preflight handshakes, allowed headers, method whitelisting, and origin reflection
+- **Global Localization & CI/CD (i18n & GitHub Actions):** Contributed 5+ internationalization updates across Malayalam and Nepali strings to Scribe-i18n, and optimized iOS CI test matrices on GitHub Actions by migrating legacy destination targets to modernized iOS simulator environments
 
 </details>
 
 <details>
-<summary><b>iOS Developer Intern — BookTranspo</b> &nbsp;<code>Jul 2025 – Dec 2025</code></summary>
+<summary><b>iOS Developer Intern — BookTranspo</b> &nbsp;<code>Jun 2025 – Dec 2025</code></summary>
 <br>
 
 > SwiftUI · MapKit · Google Maps SDK · Live Activities · ActivityKit · Dynamic Island · REST APIs
 
-- Designed and integrated REST APIs for real-time communication between client and backend systems
-- Built real-time tracking system handling continuous location data streams with optimized state management
-- Built **Live Activities + Dynamic Island** for real-time delivery tracking with continuous state updates
-- Designed automatic PDF invoice generation for completed deliveries
+- Engineered real-time driver and vehicle tracking experiences using SwiftUI, MapKit, and Google Maps SDK
+- Integrated **Live Activities and Dynamic Island** updates for ride-state transitions including *Searching*, *Assigned*, *En-Route*, and *Completed*
+- Designed and integrated REST APIs with client-side caching and state management for active trip tracking
+- Optimized continuous location-data handling and network flows to improve responsiveness during real-time tracking
 - Implemented **"Booker" Voice Assistant** — full voice-based booking flow with speech recognition, TTS, and hands-free booking creation
-- Collaborated with backend services to ensure scalable and reliable system behavior
-
-</details>
-
-<details>
-<summary><b>Open Source Contributor — OneBusAway iOS</b> &nbsp;<code>2025 – Present</code></summary>
-<br>
-
-> SwiftUI · UIKit · watchOS · OBAKit · MVVM · WatchConnectivity
-
-- Migrating legacy UIKit screens to SwiftUI (`WalkTimeBanner`, Bookmarks, Recent Stops)
-- Building watchOS infrastructure: **24+ SwiftUI views**, ViewModels, WatchConnectivity sync, and OTP integration for the GSoC 2026 companion app
-- Added `Share Stop` feature, accessibility improvements, and architectural refactoring across `OBAKitCore`
+- Designed automatic PDF invoice generation for completed deliveries and collaborated with backend services to ensure scalable system behavior
 
 </details>
 
@@ -144,9 +135,9 @@ let prince = Developer(
 <summary><b>iOS Developer Intern — DigiLocker</b> &nbsp;<code>Mar 2022 – May 2022</code></summary>
 <br>
 
-- Developed and maintained application features using structured architecture
-- Integrated APIs and handled data flow between client and backend systems
-- Improved performance and resolved bugs through systematic debugging
+- Maintained iOS document-retrieval features using structured MVVM architecture
+- Integrated APIs and handled secure token-validation flows for citizen data exchange
+- Investigated and resolved application crashes and stability issues through systematic debugging and performance analysis
 
 </details>
 
@@ -156,14 +147,16 @@ let prince = Developer(
 
 | Project | Description | Stack | Platform |
 |---|---|---|---|
-| [**FlowState**](https://github.com/prince-0408/FlowState) | macOS AI focus engine — context recovery, workspace classification, Apple FoundationModels, SwiftData | SwiftUI · AppKit · SwiftData · FoundationModels | macOS |
+| [**Clavi**](https://github.com/prince-0408/Clavi) | Acoustic piano diagnostics — continuous 120Hz CoreMIDI 3-pedal telemetry, Railsback curve tuning, reverse chord detection & VoiceOver rotors | Swift · SwiftUI · CoreMIDI · CoreHaptics · AVFoundation · Combine | iOS |
+| [**Aera**](https://github.com/prince-0408/Aera) | Apple-native aviation companion — zero-mock schedules, CoreMotion barometric cabin pressure tracking, solar "Look Outside" engine & 3D globe | Swift 6 · SwiftUI · ActivityKit · CoreMotion · Metal · MVVM | iOS |
+| [**FlowState**](https://github.com/prince-0408/FlowState) | macOS AI focus engine — context recovery, workspace classification, Apple FoundationModels, SwiftData (*IndeHub 2026 Finalist*) | SwiftUI · AppKit · SwiftData · FoundationModels | macOS |
 | [**Cogito**](https://github.com/prince-0408/Cogito) | AI-driven task manager with smart scheduling, heatmap calendar, and customizable themes | SwiftUI · CoreData · MVVM | iOS |
 | [**NotchX**](https://github.com/prince-0408/NotchX) | Transforms the MacBook notch into a Dynamic Island-style UI with music, battery & notifications | SwiftUI · AppKit · MVVM | macOS |
 | [**Flexi**](https://github.com/prince-0408/Flexi) | watchOS posture & ergonomics assistant with real-time correction alerts and habit tracking | SwiftUI · HealthKit · MVVM | watchOS |
 | [**Glasscast**](https://github.com/prince-0408/Glasscast) | Modern glassmorphism-based SwiftUI app | Swift · SwiftUI | iOS |
-| [**Togethr**](https://github.com/prince-0408/Togethr) | Couples relationship tracking and memory app | SwiftUI | iOS |
-| [**SnapBite**](https://github.com/prince-0408/SnapBite) | Food journaling app with SnapKit-style layout | Swift · UIKit | iOS |
-| [**MusePaint**](https://github.com/prince-0408/MusePaint) | Minimal creative drawing app | Swift | iOS |
+| [**Togethr**](https://github.com/prince-0408/Togethr) | Couples relationship tracking and memory app | SwiftUI · Combine | iOS |
+| [**SnapBite**](https://github.com/prince-0408/SnapBite) | Food journaling app with SnapKit-style layout | Swift · UIKit · SnapKit | iOS |
+| [**MusePaint**](https://github.com/prince-0408/MusePaint) | Minimal creative drawing app | Swift · UIKit · CoreGraphics | iOS |
 | [**Swift-DSA**](https://github.com/prince-0408/Swift-DSA) | Core data structures and algorithms in Swift | Swift | — |
 
 ---
@@ -174,8 +167,10 @@ let prince = Developer(
 
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
@@ -184,15 +179,23 @@ let prince = Developer(
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-000000?style=for-the-badge&logo=swift&logoColor=blue)
 ![AppKit](https://img.shields.io/badge/AppKit-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![UIKit](https://img.shields.io/badge/UIKit-000000?style=for-the-badge&logo=apple&logoColor=white)
+![CoreMIDI](https://img.shields.io/badge/CoreMIDI-000000?style=for-the-badge&logo=apple&logoColor=white)
+![CoreMotion](https://img.shields.io/badge/CoreMotion-000000?style=for-the-badge&logo=apple&logoColor=white)
+![ActivityKit](https://img.shields.io/badge/ActivityKit-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Live Activities](https://img.shields.io/badge/Live%20Activities-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Dynamic Island](https://img.shields.io/badge/Dynamic%20Island-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Metal](https://img.shields.io/badge/Metal-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![SwiftData](https://img.shields.io/badge/SwiftData-000000?style=for-the-badge&logo=apple&logoColor=white)
-![FoundationModels](https://img.shields.io/badge/FoundationModels-000000?style=for-the-badge&logo=apple&logoColor=white)
-![watchOS](https://img.shields.io/badge/watchOS-000000?style=for-the-badge&logo=apple&logoColor=white)
-![HealthKit](https://img.shields.io/badge/HealthKit-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![CoreData](https://img.shields.io/badge/CoreData-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Combine](https://img.shields.io/badge/Combine-000000?style=for-the-badge&logo=apple&logoColor=white)
-![MapKit](https://img.shields.io/badge/MapKit-000000?style=for-the-badge&logo=apple&logoColor=white)
-![ActivityKit](https://img.shields.io/badge/ActivityKit-000000?style=for-the-badge&logo=apple&logoColor=white)
+![CoreHaptics](https://img.shields.io/badge/CoreHaptics-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![AVFoundation](https://img.shields.io/badge/AVFoundation-000000?style=for-the-badge&logo=apple&logoColor=white)
+![AudioToolbox](https://img.shields.io/badge/AudioToolbox-000000?style=for-the-badge&logo=apple&logoColor=white)
+![CoreLocation](https://img.shields.io/badge/CoreLocation-000000?style=for-the-badge&logo=apple&logoColor=white)
+![MapKit](https://img.shields.io/badge/MapKit-000000?style=for-the-badge&logo=apple&logoColor=white)
+![watchOS](https://img.shields.io/badge/watchOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![HealthKit](https://img.shields.io/badge/HealthKit-000000?style=for-the-badge&logo=apple&logoColor=white)
+![FoundationModels](https://img.shields.io/badge/FoundationModels-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![WidgetKit](https://img.shields.io/badge/WidgetKit-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Speech](https://img.shields.io/badge/Speech%20Framework-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=Xcode&logoColor=white)
@@ -200,15 +203,22 @@ let prince = Developer(
 **Android**
 
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![Kotlin Coroutines](https://img.shields.io/badge/Kotlin%20Coroutines-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![StateFlow](https://img.shields.io/badge/StateFlow-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![InputMethodService](https://img.shields.io/badge/InputMethodService-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Room](https://img.shields.io/badge/Room%20DB-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 
 **Tools & Backend**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-6DB33F?style=for-the-badge&logo=json&logoColor=white)
-![Vapor](https://img.shields.io/badge/Vapor-0D96F6?style=for-the-badge&logo=vapor&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![SPM](https://img.shields.io/badge/Swift%20Package%20Manager-F05138?style=for-the-badge&logo=swift&logoColor=white)
 ![TestFlight](https://img.shields.io/badge/TestFlight-0D96F6?style=for-the-badge&logo=apple&logoColor=white)
@@ -217,16 +227,17 @@ let prince = Developer(
 
 ## 🎓 Education & Certifications
 
-**Bachelor of Technology — Computer Science & Engineering**
-Parul University, Vadodara `Aug 2021 – June 2025`
+**Bachelor of Technology — Computer Science & Engineering**  
+Parul University, Vadodara `2022 – 2025`
 
 **Achievements & Certifications**
-- 🏅 **IndeHub Hackathon 2025** — Semi-Finalist (now building FlowState for 2026)
-- ☁️ Oracle Cloud Infrastructure 2025 Foundations Associate — Oracle
-- 🤖 Oracle Cloud Infrastructure Certified AI Foundations Associate — Oracle
-- 🏅 Postman API Fundamentals Student Expert
-- 📘 Introduction to iOS Mobile Application Development — Coursera
-- 📗 Postman Crash Course — Udemy
+- 🏅 **IndeHub Hackathon 2026** — Finalist (FlowState macOS Focus Engine)
+- 🏅 **IndeHub Hackathon 2025** — Semi-Finalist
+- ☁️ **Oracle Cloud Infrastructure Certified AI Foundations Associate** — Oracle
+- ☁️ **Oracle Cloud Infrastructure 2025 Foundations Associate** — Oracle
+- 📘 **Introduction to iOS Mobile Application Development** — Meta / Coursera
+- 🏅 **Postman API Fundamentals Student Expert** — Postman
+- 📗 **Postman Crash Course** — Udemy
 
 ---
 
